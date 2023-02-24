@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# Challenge-12-SQL-Challenge-Employee-Tracker
+Challenge-12-SQL Challenge: Employee Tracker
+
+>>>>>>> 7883d9ada9a212e425dfb63e058dbf0bfa907902
 # 12 SQL: Employee Tracker
 
 ## Your Task
